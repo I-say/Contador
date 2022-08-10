@@ -1,0 +1,46 @@
+body{
+    background-color: yellow;
+}
+
+h1{
+    font-size: 50px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+h2{
+    font-size: 50px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+.container{
+    text-align: center;
+}
+
+#decrementar{
+    background-color: black;
+    color: white;
+    border-radius: 15px;
+    padding: 10px;
+    margin: 10px;
+
+}
+
+#resetear{
+    background-color: black;
+    color: white;
+    border-radius: 15px;
+    padding: 10px;
+    margin: 10px;
+
+}
+
+#incrementar{
+    background-color: black;
+    color: white;
+    border-radius: 15px;
+    padding: 10px;
+    margin: 10px;
+
+}
